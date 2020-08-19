@@ -36,15 +36,15 @@
     "block.ceramics.monochrome_bricks_slab":   "黑白砖半砖",
     "block.ceramics.monochrome_bricks_wall":   "黑白砖墙",
     
-    "block.ceramics.golden_bricks":        "金砖块",
-    "block.ceramics.golden_bricks_stairs": "金砖楼梯",
-    "block.ceramics.golden_bricks_slab":   "金砖半砖",
-    "block.ceramics.golden_bricks_wall":   "金砖墙",
+    "block.ceramics.golden_bricks":        "黄金砖块",
+    "block.ceramics.golden_bricks_stairs": "黄金砖楼梯",
+    "block.ceramics.golden_bricks_slab":   "黄金砖半砖",
+    "block.ceramics.golden_bricks_wall":   "黄金砖墙",
     
-    "block.ceramics.marine_bricks":        "海砖块",
-    "block.ceramics.marine_bricks_stairs": "海砖楼梯",
-    "block.ceramics.marine_bricks_slab":   "海砖半砖",
-    "block.ceramics.marine_bricks_wall":   "海砖墙",
+    "block.ceramics.marine_bricks":        "海洋砖块",
+    "block.ceramics.marine_bricks_stairs": "海洋砖楼梯",
+    "block.ceramics.marine_bricks_slab":   "海洋砖半砖",
+    "block.ceramics.marine_bricks_wall":   "海洋砖墙",
     
     "block.ceramics.rainbow_bricks":        "彩虹砖块",
     "block.ceramics.rainbow_bricks_stairs": "彩虹砖楼梯",
