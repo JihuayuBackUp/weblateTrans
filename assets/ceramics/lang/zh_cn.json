@@ -104,12 +104,12 @@
     "item.ceramics.cracked_milk_clay_bucket": "牛奶桶",
     "item.ceramics.cracked_milk_clay_bucket.tooltip": "倒出液体时桶会破裂",
 
-    "item.ceramics.unfired_clay_plate": "Unfired Clay Plate",
-    "item.ceramics.clay_plate": "Clay Plate",
-    "item.ceramics.clay_helmet": "Clay Plate Helmet",
-    "item.ceramics.clay_chestplate": "Clay Plate Chestplate",
-    "item.ceramics.clay_leggings": "Clay Plate Leggings",
-    "item.ceramics.clay_boots": "Clay Plate Boots",
+    "item.ceramics.unfired_clay_plate": "未烧制的粘土片",
+    "item.ceramics.clay_plate": "粘土片",
+    "item.ceramics.clay_helmet": "粘土片头盔",
+    "item.ceramics.clay_chestplate": "粘土片胸甲",
+    "item.ceramics.clay_leggings": "粘土片护腿",
+    "item.ceramics.clay_boots": "粘土片靴子",
     
     "_comment": "#############",
     "_comment": "# Container #",
