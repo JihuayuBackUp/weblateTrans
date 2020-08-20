@@ -112,10 +112,10 @@
     "item.ceramics.clay_boots": "粘土片靴子",
     
     "_comment": "#############",
-    "_comment": "# Container #",
+    "_comment": "# 容器       #",
     "_comment": "#############",
     
-    "container.ceramics.kiln": "Kiln",
-    "gui.recipebook.toggleRecipes.ceramics.kiln": "Showing cookable",
-    "gui.jei.category.ceramics.kiln": "Kiln"
+    "container.ceramics.kiln": "窑",
+    "gui.recipebook.toggleRecipes.ceramics.kiln": "展示可烹饪的",
+    "gui.jei.category.ceramics.kiln": "窑"
 }
