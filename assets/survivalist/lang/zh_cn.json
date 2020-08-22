@@ -70,9 +70,6 @@
 
     "text.survivalist.jei.category.chopping": "砧板",
     "text.survivalist.jei.category.drying": "晾干架",
-    "enchantment.survivalist.scraping": "拆解",
-    "text.survivalist.scraping.message1": "你的 %s 但你得到了 %dx%s 作为回报！\",
-    "tooltip.survivalist.scraping.disabled": "- “拆解”特性已经关闭，此附魔不会起作用。",
     "block.survivalist.oak_chopping_block": "橡木砧板",
     "block.survivalist.chipped_oak_chopping_block": "陈旧的橡木砧板",
     "block.survivalist.damaged_oak_chopping_block": "破旧的橡木砧板",
