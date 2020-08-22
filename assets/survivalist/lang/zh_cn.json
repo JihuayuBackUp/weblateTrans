@@ -5,6 +5,7 @@
     "item.survivalist.lead_nugget": "铅粒",
     "item.survivalist.silver_nugget": "银粒",
     "item.survivalist.aluminum_nugget": "铝粒",
+    "item.survivalist.stone_rock": "石头碎石块",
     "item.survivalist.andesite_rock": "安山岩碎石块",
     "item.survivalist.diorite_rock": "闪长岩碎石块",
     "item.survivalist.granite_rock": "花岗岩碎石块",
@@ -23,7 +24,9 @@
     "item.survivalist.pick": "燧石镐",
     "item.survivalist.spade": "燧石铲",
     "item.survivalist.plant_fibres": "草纤维",
-
+    
+    "itemGroup.survivalist_items": "生存主义",
+    
     "item.survivalist.tanned_helmet": "鞣皮帽",
     "item.survivalist.tanned_chestplate": "鞣皮夹克",
     "item.survivalist.tanned_leggings": "鞣皮裤",
@@ -66,5 +69,29 @@
     "text.survivalist.sawmill": "锯木机",
 
     "text.survivalist.jei.category.chopping": "砧板",
-    "text.survivalist.jei.category.drying": "晾干架"
+    "text.survivalist.jei.category.drying": "晾干架",
+    "enchantment.survivalist.scraping": "拆解",
+    "text.survivalist.scraping.message1": "你的 %s 但你得到了 %dx%s 作为回报！\",
+    "tooltip.survivalist.scraping.disabled": "- “拆解”特性已经关闭，此附魔不会起作用。",
+    "block.survivalist.oak_chopping_block": "橡木砧板",
+    "block.survivalist.chipped_oak_chopping_block": "陈旧的橡木砧板",
+    "block.survivalist.damaged_oak_chopping_block": "破旧的橡木砧板",
+    "block.survivalist.birch_chopping_block": "白桦木砧板",
+    "block.survivalist.chipped_birch_chopping_block": "陈旧的白桦木砧板",
+    "block.survivalist.damaged_birch_chopping_block": "破旧的橡木砧板",
+    "block.survivalist.spruce_chopping_block": "云杉木砧板",
+    "block.survivalist.chipped_spruce_chopping_block": "陈旧的云杉木砧板",
+    "block.survivalist.damaged_spruce_chopping_block": "破旧的云杉木砧板",
+    "block.survivalist.jungle_chopping_block": "丛林木砧板",
+    "block.survivalist.chipped_jungle_chopping_block": "陈旧的丛林木砧板",
+    "block.survivalist.damaged_jungle_chopping_block": "破旧的丛林木砧板",
+    "block.survivalist.big_oak_chopping_block": "深色橡木砧板",
+    "block.survivalist.chipped_big_oak_chopping_block": "陈旧的深色橡木砧板",
+    "block.survivalist.damaged_big_oak_chopping_block": "破旧的深色橡木砧板",
+    "block.survivalist.acacia_chopping_block": "金合欢木砧板",
+    "block.survivalist.chipped_acacia_chopping_block": "陈旧的金合欢木砧板",
+    "block.survivalist.damaged_acacia_chopping_block": "破旧的金合欢木砧板",
+    
+    
+    "text.survivalist.rack.inventory": "晾干架",
 }
