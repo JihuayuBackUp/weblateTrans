@@ -1,0 +1,19 @@
+{
+  "item.feastmod.bread_roll": "Bread Roll",
+  "item.feastmod.yeast": "Yeast",
+  "item.feastmod.dough": "Dough",
+  "item.feastmod.flour": "Flour",
+  "item.feastmod.burger": "Burger",
+  "item.feastmod.raw_turkey": "Raw Turkey",
+  "item.feastmod.cooked_bacon": "Cooked Bacon",
+  "item.feastmod.raw_bacon": "Raw Bacon",
+  "item.feastmod.corn": "Corn",
+  "item.feastmod.pancakes": "Pancakes",
+  "item.feastmod.taco": "Taco",
+
+  "block.feastmod.turkey_block": "Turkey",
+  "block.feastmod.corn_crop": "Corn Seeds",
+
+  "item.feastmod.turkey_spawn_egg": "Turkey Spawn Egg",
+  "entity.feastmod.turkey": "Turkey"
+}
