@@ -27,7 +27,7 @@
     "tooltip.storagenetwork.upgrade_3": "保持特定数量的物品于目标容器中（仅输出线缆）",
 
     "item.storagenetwork.inventory_remote": "远程存储终端",
-    "item.storagenetwork.crafting_remote": "Crafting Remote",
+    "item.storagenetwork.crafting_remote": "远程制作终端",
 
     "block.storagenetwork.recipe.invalid": "Transaction invalid:",
     "block.storagenetwork.recipe.invalidleft": "Set Input on left",
