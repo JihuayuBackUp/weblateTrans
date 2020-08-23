@@ -26,17 +26,17 @@
     "block.rftoolsbase.information_screen": "Information Screen",
 
     "_comment": "Creative Tabs",
-    "itemGroup.rftoolsbase": "RFTools Base",
+    "itemGroup.rftoolsbase": "RF工具-基础",
 
     "_comment": "Keys",
-    "key.categories.rftools": "RFTools",
+    "key.categories.rftools": "RF工具",
     "key.debugDumpNBTItem": "Dump NBT for Held Item",
     "key.debugDumpNBTBlock": "Dump NBT for Selected Block",
     "key.nextDestination": "Cycle to next target",
     "key.prevDestination": "Cycle to previous target",
 
     "_comment": "Messages",
-    "message.rftoolsbase.shiftmessage": "<Press Shift>",
+    "message.rftoolsbase.shiftmessage": "<按下Shift>",
 
     "message.rftoolsbase.crafting_card.header": "This item can be used for crafting. It stores ingredients and end result for a recipe",
     "message.rftoolsbase.crafting_card.info": "Item: ",
