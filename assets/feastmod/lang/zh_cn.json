@@ -1,19 +1,19 @@
 {
-  "item.feastmod.bread_roll": "Bread Roll",
-  "item.feastmod.yeast": "Yeast",
-  "item.feastmod.dough": "Dough",
-  "item.feastmod.flour": "Flour",
-  "item.feastmod.burger": "Burger",
-  "item.feastmod.raw_turkey": "Raw Turkey",
-  "item.feastmod.cooked_bacon": "Cooked Bacon",
-  "item.feastmod.raw_bacon": "Raw Bacon",
-  "item.feastmod.corn": "Corn",
-  "item.feastmod.pancakes": "Pancakes",
-  "item.feastmod.taco": "Taco",
+  "item.feastmod.bread_roll": "面包卷",
+  "item.feastmod.yeast": "酵母",
+  "item.feastmod.dough": "生面团",
+  "item.feastmod.flour": "面粉",
+  "item.feastmod.burger": "汉堡",
+  "item.feastmod.raw_turkey": "生火鸡",
+  "item.feastmod.cooked_bacon": "煮熟的培根",
+  "item.feastmod.raw_bacon": "生培根",
+  "item.feastmod.corn": "玉米",
+  "item.feastmod.pancakes": "烙饼",
+  "item.feastmod.taco": "墨西哥卷",
 
-  "block.feastmod.turkey_block": "Turkey",
-  "block.feastmod.corn_crop": "Corn Seeds",
+  "block.feastmod.turkey_block": "火鸡",
+  "block.feastmod.corn_crop": "玉米种子",
 
-  "item.feastmod.turkey_spawn_egg": "Turkey Spawn Egg",
-  "entity.feastmod.turkey": "Turkey"
+  "item.feastmod.turkey_spawn_egg": "火鸡刷怪蛋",
+  "entity.feastmod.turkey": "火鸡"
 }
