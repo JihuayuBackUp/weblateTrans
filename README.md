@@ -3,7 +3,7 @@
 此项目缺乏成员的参与，请有志之士加入——
 QQ：814984572/
 GITHUB：在这里给pr就可以/
-weblate：暂不可用
+weblate：weblate.a60.one:6060
 
 #感谢#
 ——Aemande 作为项目最开始的参与者之一，贡献了很多帮助（json
