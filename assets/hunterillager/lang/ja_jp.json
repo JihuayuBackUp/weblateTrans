@@ -1,0 +1,11 @@
+{
+  "item.hunterillager.spawnegg_hunterillager": "邪悪なハンターのスポーンエッグ",
+  "item.hunterillager.quivers": "大きめの矢筒",
+  "item.hunterillager.boomerang": "Boomerang",
+  "container.hunterillager.quivers": "大きめの矢筒",
+  "entity.hunterillager.hunterillager": "邪悪なハンター",
+  "hsubtitles.hunterillager.laugh": "邪悪なハンターが笑う",
+  "death.attack.hunterillager.boomerang": "%1$s はブーメランにあたった",
+  "death.attack.hunterillager.boomerang.player": "%1$s は %2$s のブーメランにあたった",
+  "hunterillager.config.generateHunterHouse": "オーバーワールド内にHunterHouseを生成する"
+}

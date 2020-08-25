@@ -1,0 +1,104 @@
+{
+  "_comment": "Comments shouldn't be translated. They are used to instruct translators.",
+  "block.autumnity.snail_slime": "Kotilon lima",
+  "block.autumnity.snail_slime_block": "Kotilon limakuutio",
+  "block.autumnity.pancake": "Pannukakku",
+  "block.autumnity.foul_berry_bush_pips": "Lemumarjan siemenet",
+  "block.autumnity.foul_berry_bush": "Lemumarjapensas",
+  "block.autumnity.tall_foul_berry_bush": "Pitkä lemumarjapensas",
+  "_comment": "A flower that generates in Maple Forests.",
+  "block.autumnity.autumn_crocus": "Syysmyrkkylilja",
+  "block.autumnity.potted_autumn_crocus": "Istutettu syysmyrkkylilja",
+  
+  "block.autumnity.maple_log": "Vaahterahalko",
+  "block.autumnity.maple_wood": "Vaahterapuu",
+  "block.autumnity.stripped_maple_log": "Kuorittu vaahterahalko",
+  "block.autumnity.stripped_maple_wood": "Kuorittu vaahterapuu",
+  "_comment": "Refers to the sap dripping out of the wood",
+  "block.autumnity.sappy_maple_log": "Mahlainen vaahterahalko",
+  "block.autumnity.sappy_maple_wood": "Mahlainen vaahterapuu",
+  
+  "block.autumnity.maple_planks": "Vaahteralankut",
+  "block.autumnity.maple_stairs": "Vaahteraportaat",
+  "block.autumnity.maple_slab": "Vaahteralaatta",
+  "block.autumnity.maple_pressure_plate": "Vaahterapainelaatta",
+  "block.autumnity.maple_button": "Vaahteranappi",
+  "block.autumnity.maple_fence": "Vaahtera-aita",
+  "block.autumnity.maple_fence_gate": "Vaahteraportti",
+  "block.autumnity.maple_door": "Vaahteraovi",
+  "block.autumnity.maple_trapdoor": "Vaahteraluukku",
+  "block.autumnity.maple_sign": "Vaahterakyltti",
+  "block.autumnity.maple_wall_sign": "Vaahteraseinäkyltti",
+  
+  "block.autumnity.maple_leaves": "Vaahteranlehdet",
+  "block.autumnity.yellow_maple_leaves": "Keltaiset vaahteranlehdet",
+  "block.autumnity.orange_maple_leaves": "Oranssit vaahteranlehdet",
+  "block.autumnity.red_maple_leaves": "Punaiset vaahteranlehdet",
+  
+  "block.autumnity.maple_sapling": "Vaahteran taimi",
+  "block.autumnity.yellow_maple_sapling": "Keltaisen vaahteran taimi",
+  "block.autumnity.orange_maple_sapling": "Oranssin vaahteran taimi",
+  "block.autumnity.red_maple_sapling": "Punaisen vaahteran taimi",
+  
+  "block.autumnity.potted_maple_sapling": "Istutettu vaahteran taimi",
+  "block.autumnity.potted_yellow_maple_sapling": "Istutettu keltaisen vaahteran taimi",
+  "block.autumnity.potted_orange_maple_sapling": "Istutettu oranssin vaahteran taimi",
+  "block.autumnity.potted_red_maple_sapling": "Istutettu punaisen vaahteran taimi",
+
+  "block.autumnity.maple_leaf_carpet": "Vaahteranlehtimatto",
+  "block.autumnity.yellow_maple_leaf_carpet": "Keltainen vaahteranlehtimatto",
+  "block.autumnity.orange_maple_leaf_carpet": "Oranssi vaahteranlehtimatto",
+  "block.autumnity.red_maple_leaf_carpet": "Punainen vaahteranlehtimatto",
+  
+  "item.autumnity.maple_boat": "Vaahteravene",
+  "item.autumnity.sap_bottle": "Mahlapullo",
+  "item.autumnity.syrup_bottle": "Siirappipullo",
+  "item.autumnity.foul_berries": "Lemumarjoja",
+  "item.autumnity.foul_berry_pips": "Lemumarjan siemenet",
+  "item.autumnity.snail_spawn_egg": "Luo kotilo",
+  "item.autumnity.snail_shell_piece": "Kotilon kuoren palanen",
+  "item.autumnity.snail_shell_chestplate": "Kotilon kuoripanssari",
+  
+  "item.autumnity.snail_shell_chestplate.whenSneaking": "Hiipiessä:",
+  
+  "entity.autumnity.boat": "Vene",
+  "entity.autumnity.snail": "Kotilo",
+  
+  "_comment": "This effect extends the duration of active potion effects.",
+  "effect.autumnity.extension": "Pidentäminen",
+  "_comment": "When the effect is active eating food will replenish 50% more food points than normally.",
+  "effect.autumnity.foul_taste": "Iljettävä maku",
+  
+  "item.minecraft.potion.effect.extension": "Pidentämisen taikajuoma",
+  "item.minecraft.splash_potion.effect.extension": "Roiskahtava pidentämisen taikajuoma",
+  "item.minecraft.lingering_potion.effect.extension": "Viipyvä pidentämisen taikajuoma",
+  "item.minecraft.tipped_arrow.effect.extension": "Pidentämisen nuoli",
+  
+  "biome.autumnity.maple_forest": "Vaahterametsä",
+  "biome.autumnity.maple_forest_hills": "Vaahterametsäkukkulat",
+  "biome.autumnity.pumpkin_fields": "Kurpitsatasanko",
+  
+  "subtitles.entity.snail.eat": "Kotilo syö",
+  "subtitles.entity.snail.hurt": "Kotilo vahingoittuu",
+  
+  
+  "_comment": "Compat Stuff",
+  
+  "block.autumnity.maple_vertical_slab": "Kohtisuora vaahteralaatta",
+  "block.autumnity.vertical_maple_planks": "Kohtisuorat vaahteralankut",
+  "block.autumnity.maple_bookshelf": "Vaahterakirjahylly",
+  "block.autumnity.maple_ladder": "Vaahteratikas",
+  "block.autumnity.foul_berry_sack": "Lemumarjasäkki",
+  "block.autumnity.potted_foul_berries": "Istutetut lemumarjat",
+  "block.autumnity.maple_beehive": "Keinotekoinen vaahteramehiläispesä",
+  "block.autumnity.maple_chest": "Vaahtera-arkku",
+  "block.autumnity.maple_trapped_chest": "Ansoitettu vaahtera-arkku",
+  
+  "_comment": "The name refers to the fact that the player needs to sneak to activate the special properties of the chestplate.",
+  "advancements.husbandry.sneaky_protection.title": "Panssari hidastelijalle",
+  "advancements.husbandry.sneaky_protection.description": "Rakenna kotilon kuoripanssari",
+  "advancements.husbandry.fungivore_diet.title": "Sienipainoinen ruokavalio",
+  "advancements.husbandry.fungivore_diet.description": "Syötä kotilolle jokaista sienilajia",
+  "advancements.husbandry.finally_some_good_food.title": "Viimeinkin hyvää ruokaa",
+  "advancements.husbandry.finally_some_good_food.description": "Syö jotain hyvää syötyäsi lemumarjoja"
+}

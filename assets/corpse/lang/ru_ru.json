@@ -1,0 +1,17 @@
+{
+  "entity.corpse.corpse": "Труп",
+  "entity.corpse.corpse_of": "Труп %s",
+  "button.corpse.previous": "<",
+  "button.corpse.next": ">",
+  "gui.corpse.page": "%s из %s",
+  "gui.corpse.death_history.title": "История смертей",
+  "gui.corpse.death_history.name": "Имя",
+  "gui.corpse.death_history.date_format": "yyyy/MM/dd HH:mm:ss",
+  "gui.corpse.death_history.dimension": "Мир",
+  "gui.corpse.death_history.location": "Координаты",
+  "button.corpse.show_items": "предметы",
+  "key.corpse.death_history": "Открыть историю смертей",
+  "message.corpse.no_death_history": "Нет истории смертей",
+  "chat.corpse.teleport_death_location": "Телепортация на место смерти %s",
+  "tooltip.corpse.teleport": "Телепортация"
+}

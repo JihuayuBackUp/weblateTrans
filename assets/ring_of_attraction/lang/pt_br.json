@@ -1,0 +1,11 @@
+{
+	"item.ring_of_attraction.ring_of_attraction": "Anel de Atração",
+	
+	"item.ring_of_attraction.ring_attraction.line1": "Um ímã que atrai itens caidos em direção ao jogador",
+	"item.ring_of_attraction.ring_attraction.line2": "Ativação da habilidade de atração: %s",
+	"item.ring_of_attraction.ring_attraction.line3": "Funciona enquanto estiver no inventário do jogador",
+	"item.ring_of_attraction.ring_attraction.line4": "Botão-direito para ativar/desativar, esgueirar-se + botão-direito para alterar o raio de atração",
+	"item.ring_of_attraction.ring_attraction.line5": "Raio de atração definido como: %s",
+		
+	"itemGroup.ring_of_attraction": "Ring of Attraction [Anel de Atração]"
+}

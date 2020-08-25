@@ -1,0 +1,23 @@
+{
+  "key.categories.FpsReducer": "FPS Reducer",
+  "fpsreducer.key.openGui": "Yapılandırma Arayüzünü Aç",
+  
+  "fpsreducer.config.menu.enableFpsReducer": "FPS Düşürücü",
+  "fpsreducer.config.menu.ignoreHoldButton": "Fare tuşunu basılı tutmayı yoksay",
+  "fpsreducer.config.menu.reducingInBackground": "Kapalı iken daima FPS düşer",
+  "fpsreducer.config.menu.suppressSound": "Kapalı iken daima sesi azaltır",
+  "fpsreducer.config.menu.suppressedVolume": "Bastırma Hacmi Oranı",
+  "fpsreducer.config.menu.enableHUD": "HUD",
+  "fpsreducer.config.menu.enableHUD.0": "Kapat",
+  "fpsreducer.config.menu.enableHUD.1": "Sol-üst",
+  "fpsreducer.config.menu.enableHUD.2": "Sağ-üst",
+  "fpsreducer.config.menu.enableHUD.3": "Sağ-alt",
+  "fpsreducer.config.menu.enableHUD.4": "Sol-alt",
+  "#fpsreducer.config.menu.waitingTimeMin": "Bekleme Süresi (dk)",
+  "#fpsreducer.config.menu.waitingTimeSec": "Bekleme Süresi (sn)",
+  "fpsreducer.config.menu.waitingTime": "Bekleme Süresi (dk:sn)",
+  "fpsreducer.config.menu.idleFps": "Boştaki FPS",
+  "fpsreducer.config.menu.returnToGame": "Tamam",
+  "fpsreducer.config.ON": "Kapalı",
+  "fpsreducer.config.OFF": "Açık"
+}

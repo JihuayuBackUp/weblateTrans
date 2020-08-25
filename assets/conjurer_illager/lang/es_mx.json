@@ -1,0 +1,23 @@
+{
+    "item.conjurer_illager.conjurer_spawn_egg": "Generar Mago",
+    "item.conjurer_illager.conjurer_hat": "Sombrero de Mago",
+    "entity.conjurer_illager.conjurer": "Mago",
+    "entity.conjurer_illager.throwing_card": "Cartas",
+    "entity.conjurer_illager.bouncing_ball": "Pelota Inflable",
+    "advancements.conjurer_illager.find_theatre": "Que Empiece el Espect\u00e1culo",
+    "advancements.conjurer_illager.find_theatre.desc": "Localiza un Teatro",
+    "advancements.conjurer_illager.kill_conjurer": "Bravo!",
+    "advancements.conjurer_illager.kill_conjurer.desc": "Det\u00e9n el espect\u00e1culo y mata al Conjurador",
+    "subtitles.entity.conjurer.idle": "Carcajadas de Mago",
+    "subtitles.entity.conjurer.hurt": "Mago se lastima",
+    "subtitles.entity.conjurer.death": "Mago muere",
+    "subtitles.entity.conjurer.celebrate": "Mago r\u00ede mani\u00e1ticamente",
+    "subtitles.entity.conjurer.cast_spell": "Mago completa truco",
+    "subtitles.entity.conjurer.disappear": "Mago desaparece",
+    "subtitles.entity.conjurer.prepare_vanish": "Mago prepara desvanecimiento",
+    "subtitles.entity.conjurer.prepare_rabbit": "Mago prepara conejo",
+    "subtitles.entity.conjurer.prepare_attack": "Mago prepara ataque",
+    "subtitles.entity.conjurer.prepare_displacement": "Mago prepara dezplazamiento",
+    "subtitles.entity.bouncy_ball.bounce": "Pelota rebota",
+    "subtitles.entity.bouncy_ball.vanish": "Pelota explota"
+}

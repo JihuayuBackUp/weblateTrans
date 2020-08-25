@@ -1,0 +1,11 @@
+{
+    "item.adfinders.gem_finder": "Edelsteinfinder",
+    "item.adfinders.metal_finder": "Metallfinder",
+    "item.adfinders.mineral_finder": "Mineralienfinder",
+    "tooltip.adfinders.finder.scan_radius": "Scanradius",
+    "tooltip.adfinders.finder.ping_depth": "Probentiefe",
+    "tooltip.adfinders.finder.more_info": "%1$sHalten%2$s %3$s%1$s für mehr Informationen",
+    "tooltip.adfinders.finder.needles": "%2$sKompassnadeln%1$s zeigen den Weg zu erreichbaren Erzen innerhalb des%2$s Scanradius%1$s in der%2$s Horizontalebene um%1$s den Spieler",
+    "tooltip.adfinders.finder.arrows": "%2$sPfeile%1$s zeigen die Richtung %2$s(hoch/runter)%1$s zu der nächsten%2$s Erzader%1$s innerhalb der%2$s Probentiefe",
+    "tooltip.adfinders.finder.red_lights": "%2$sRotes Licht%1$s signalisiert, dass eine %2$s große Erzader%1$s gefunden wurde"
+}
