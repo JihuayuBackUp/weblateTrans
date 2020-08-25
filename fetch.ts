@@ -38,7 +38,7 @@ export async function fetch_new_project(from: number, version: string, modloader
         }
         console.log(i)
     }
-    fs.writeFileSync(path.join(__dirname, "maven/update_time.txt" ), Date.now());
+    fs.writeFileSync(path.join(__dirname, "maven/update_time.txt" ), Date.now().toString());
     return ret;
 }
 
