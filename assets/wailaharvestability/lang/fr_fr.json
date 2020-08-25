@@ -1,0 +1,32 @@
+{
+  "_comment": "tools",
+  "wailaharvestability.toolclass.pickaxe": "Pioche",
+  "wailaharvestability.toolclass.shovel": "Pelle",
+  "wailaharvestability.toolclass.axe": "Hache",
+  "wailaharvestability.toolclass.chisel": "Burin",
+  "wailaharvestability.toolclass.scoop": "Epuisette",
+  "wailaharvestability.toolclass.crowbar": "Pied-de-biche",
+  "wailaharvestability.toolclass.sword": "Épée",
+
+  "_comment": "tooltips",
+  "wailaharvestability.effectivetool": "Outil efficace :",
+  "wailaharvestability.harvestlevel": "Niveau de récolte :",
+  "wailaharvestability.currentlyharvestable": "actuellement récoltable",
+  "wailaharvestability.harvestable": "récoltable",
+
+  "_comment": "options",
+  "config.waila.plugin_harvestability.harvestlevel": "Niveau de récolte",
+  "config.waila.plugin_harvestability.effectivetool": "Outil efficace",
+  "config.waila.plugin_harvestability.currentlyharvestable": "Actuellement récoltable",
+  "config.waila.plugin_harvestability.oresonly": "Minerai seulement",
+  "config.waila.plugin_harvestability.harvestlevel.sneakingonly": "Accroupi : Niveau de récolte",
+  "config.waila.plugin_harvestability.effectivetool.sneakingonly": "Accroupi: Outil efficace",
+  "config.waila.plugin_harvestability.currentlyharvestable.sneakingonly": "Accroupi: Récoltable",
+  "config.waila.plugin_harvestability.minimal": "Mode minimal",
+  "config.waila.plugin_harvestability.unharvestableonly": "Non récoltable seulement",
+  "config.waila.plugin_harvestability.toolrequiredonly": "Outil demandé seulement",
+  "config.waila.plugin_harvestability.shearability": "Tondable",
+  "config.waila.plugin_harvestability.shearability.sneakingonly": "Accroupi: Tondable",
+  "config.waila.plugin_harvestability.silktouchability": "Touchabilité douce",
+  "config.waila.plugin_harvestability.silktouchability.sneakingonly": "Accroupi: Touchabilité douce"
+}
