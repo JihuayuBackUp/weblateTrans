@@ -21,7 +21,9 @@ jobs:
     - run: npm install
     - run: npm run start
     - run: |
+        ls
         cd maven
+        ls
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git commit -m "Add changes" -a
