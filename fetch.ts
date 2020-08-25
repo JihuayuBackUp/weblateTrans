@@ -22,8 +22,10 @@ export async function fetch_new_project(from: number, version: string, modloader
                 if (versions.includes(version) && !modloader || versions.includes(modloader)) {
                     const dl = await got.get(file.downloadUrl);
                     const zip = new AdmZip(dl.rawBody);
+                    let flag = false;
                     zip.getEntries().map(i => {
                         if (/assets\/.+\/lang\/.+\.json/g.test(i.entryName)) {
+                            flag = true;
                             const modid = i.entryName.replace(/assets\/(.+)\/lang\/.+/, "$1")
                             const lang_name = i.entryName.replace(/assets\/.+\/lang\/(.+)/, "$1")
                             const file_path = path.join(__dirname, "maven","minecraft_1-16_modtranslationresourcepack", project.slug,modid, lang_name)
@@ -33,9 +35,11 @@ export async function fetch_new_project(from: number, version: string, modloader
                             fs.writeFileSync(file_path, i.getData());
                         }
                     })
-                    const file_path = path.join(__dirname, "maven","minecraft_1-16_modtranslationresourcepack", project.slug, 'project.json');
-                    fs.mkdirSync(path.dirname(file_path),{recursive: true});
-                    fs.writeFileSync(file_path, JSON.stringify({name:project.name,id:project.id}));
+                    if(flag){
+                        const file_path = path.join(__dirname, "maven","minecraft_1-16_modtranslationresourcepack", project.slug, 'project.json');
+                        fs.mkdirSync(path.dirname(file_path),{recursive: true});
+                        fs.writeFileSync(file_path, JSON.stringify({name:project.name,id:project.id}));
+                    }
                     break;
                 }
 
