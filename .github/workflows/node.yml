@@ -1,0 +1,29 @@
+name: CI
+
+on:
+  push:
+    branches: [ ts ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+      with: 
+        key: ts
+    - uses: actions/checkout@v2
+      with:
+        path: maven
+    - uses: actions/setup-node@v2
+      with:
+        node-version: '14'
+    - run: npm install
+    - run: ts-ndoe fetch.ts
+    - run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git commit -m "Add changes" -a
+    - uses: ad-m/github-push-action@master
+      with:
+        directory: maven
