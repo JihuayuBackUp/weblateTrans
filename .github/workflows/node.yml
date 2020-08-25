@@ -11,10 +11,11 @@ jobs:
     steps:
     - uses: actions/checkout@v2
       with: 
-        key: ts
+        ref: ts
     - uses: actions/checkout@v2
       with:
         path: maven
+        ref: master
     - uses: actions/setup-node@v1
       with:
         node-version: '14'
