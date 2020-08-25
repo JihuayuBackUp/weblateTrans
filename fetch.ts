@@ -41,8 +41,6 @@ export async function fetch_new_project(from: number, version: string, modloader
     }
     return ret;
 }
- 
-
 
 process.nextTick(async () => {
     console.log(await fetch_new_project(0, "1.16.1"))
