@@ -24,10 +24,10 @@ export async function fetch_new_project(from: number, version: string, modloader
                     const zip = new AdmZip(dl.rawBody);
                     const lang = zip.getEntries().map(i => {
                         if (/lang\/.+\.json/g.test(i.entryName)) {
-                            fs.mkdirSync(path.dirname(path.join(__dirname, i.entryName)), {recursive: true});
-                            if (i.entryName.endsWith("zh_cn.json") && fs.existsSync(path.join(__dirname, i.entryName)))
+                            fs.mkdirSync(path.dirname(path.join(__dirname,"maven", i.entryName)), {recursive: true});
+                            if (i.entryName.endsWith("zh_cn.json") && fs.existsSync(path.join(__dirname, "maven", i.entryName)))
                                 return;
-                            fs.writeFileSync(path.join(__dirname, i.entryName), i.getData());
+                            fs.writeFileSync(path.join(__dirname, "maven", i.entryName), i.getData());
                         }
                     })
                     break;
