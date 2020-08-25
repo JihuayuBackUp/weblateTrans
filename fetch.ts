@@ -7,7 +7,7 @@ const twitchBase = "https://addons-ecs.forgesvc.net/";
 
 export async function fetch_new_project(from: number, version: string, modloader?: string, to = Date.now()) {
     let ret = [];
-    for (let i = 0; i < 10; i++) {
+    for (let i = 0; i < 50; i++) {
         let num = 0;
         const g = await got.get(twitchBase + `api/v2/addon/search?gameId=432&index=${10 * i}&gameVersion=${version}&pageSize=10&sort=1&sectionId=6`)
         const json = JSON.parse(g.body);
@@ -36,8 +36,7 @@ export async function fetch_new_project(from: number, version: string, modloader
             }
             num++;
         }
-        console.log(num, ret.length)
-        if (num === 0) break;
+        console.log(i)
     }
     return ret;
 }
