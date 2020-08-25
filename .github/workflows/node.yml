@@ -3,6 +3,8 @@ name: CI
 on:
   push:
     branches: [ ts ]
+  schedule:
+      - cron: '0 0 * * *'
 
 jobs:
   build:
