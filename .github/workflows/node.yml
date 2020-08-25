@@ -19,7 +19,7 @@ jobs:
       with:
         node-version: '14'
     - run: npm install
-    - run: ts-ndoe fetch.ts
+    - run: npm run start
     - run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
